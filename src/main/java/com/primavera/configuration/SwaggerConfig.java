@@ -50,7 +50,7 @@ public class SwaggerConfig {
 	private static Contact contact() {
 
 		return new Contact("Primavera", 
-			"https://github.com/primaveraHackatonar", 
+			"https://github.com/primaveraHackatona", 
 			"primaverahackatona@gmail.com");
 
 	}
